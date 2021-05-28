@@ -1,0 +1,85 @@
+﻿id,superkingdom,kingdom,phylum,class,order,family,genus,species
+OTU_000000058,Opisthokonta,Metazoa,Arthropoda,Insecta,Diptera,Calliphoridae,None,None
+OTU_000000106,Opisthokonta,Metazoa,Arthropoda,Insecta,Neuroptera,Mantispidae,Euclimacia,Euclimacia badia
+OTU_000000220,Opisthokonta,Metazoa,Arthropoda,Insecta,Lepidoptera,Geometridae,None,None
+OTU_000000285,Opisthokonta,Metazoa,Arthropoda,Insecta,Hymenoptera,Tenthredinidae,None,None
+OTU_000000380,Opisthokonta,Metazoa,Arthropoda,Insecta,Diptera,Sarcophagidae,Sarcophaga,Sarcophaga crassipalpis
+OTU_000000853,Opisthokonta,Metazoa,Arthropoda,Insecta,Diptera,Phoridae,Megaselia,Megaselia scalaris
+OTU_000001571,Opisthokonta,Metazoa,Arthropoda,Arachnida,Araneae,Salticidae,Burmattus,Burmattus sp. Fuzhou-Yuanxi-15
+OTU_000001644,Opisthokonta,Metazoa,Arthropoda,Insecta,Diptera,Anisopodidae,Sylvicola,Sylvicola fenestralis
+OTU_000002163,Opisthokonta,Metazoa,Arthropoda,Arachnida,Araneae,Linyphiidae,None,None
+OTU_000002638,Opisthokonta,Metazoa,Arthropoda,Insecta,Neuroptera,Mantispidae,None,None
+OTU_000004008,Opisthokonta,Metazoa,Arthropoda,Insecta,Diptera,Sciaridae,None,Sciaridae sp. 7007_046
+OTU_000004509,Opisthokonta,Metazoa,Arthropoda,Insecta,Lepidoptera,Geometridae,Idaea,Idaea dimidiata
+OTU_000007412,Opisthokonta,Metazoa,Arthropoda,Insecta,Hemiptera,Cicadellidae,Oncopsis,None
+OTU_000007489,Opisthokonta,Metazoa,Arthropoda,Insecta,Hymenoptera,Tenthredinidae,None,None
+OTU_000010637,Opisthokonta,Metazoa,Arthropoda,Arachnida,Araneae,Salticidae,Habronattus,Habronattus oregonensis
+OTU_000010744,Correct_manually,Correct_manually,Correct_manually,Correct_manually,Sarcoptiformes,Scheloribatidae,None,Scheloribatidae sp. 7503_035
+OTU_000013424,Opisthokonta,Metazoa,Arthropoda,Insecta,Coleoptera,Carabidae,None,None
+OTU_000013793,Opisthokonta,Metazoa,Arthropoda,Insecta,Diptera,Chironomidae,Limnophyes,Limnophyes sp. 14ES
+OTU_000014295,Opisthokonta,Metazoa,Arthropoda,Insecta,Diptera,Culicidae,None,None
+OTU_000014567,Opisthokonta,Metazoa,Arthropoda,Insecta,Neuroptera,Mantispidae,None,None
+OTU_000015230,Opisthokonta,Metazoa,Arthropoda,Insecta,Diptera,Chironomidae,Limnophyes,Limnophyes sp. 14ES
+OTU_000015372,Opisthokonta,Metazoa,Arthropoda,Insecta,Hemiptera,Aphididae,None,None
+OTU_000016209,Opisthokonta,Metazoa,Arthropoda,Insecta,Hymenoptera,Tenthredinidae,None,None
+OTU_000016244,Opisthokonta,Metazoa,Arthropoda,Insecta,Hymenoptera,Braconidae,None,None
+OTU_000018684,Opisthokonta,Metazoa,Arthropoda,Insecta,Hymenoptera,Tenthredinidae,None,None
+OTU_000019007,Opisthokonta,Metazoa,Arthropoda,Insecta,Hymenoptera,Tenthredinidae,None,None
+OTU_000019851,Opisthokonta,Metazoa,Arthropoda,Arachnida,Opiliones,Phalangiidae,Bunochelis,Bunochelis spinifera
+OTU_000024978,Opisthokonta,Metazoa,Arthropoda,Insecta,Diptera,Drosophilidae,None,None
+OTU_000026271,Opisthokonta,Metazoa,Arthropoda,Arachnida,Araneae,Salticidae,Burmattus,Burmattus sp. Fuzhou-Yuanxi-15
+OTU_000026515,Opisthokonta,Metazoa,Arthropoda,Insecta,Neuroptera,Mantispidae,None,None
+OTU_000031774,Opisthokonta,Metazoa,Arthropoda,Insecta,Hymenoptera,Tenthredinidae,None,None
+OTU_000035052,Opisthokonta,Metazoa,Arthropoda,Insecta,Lepidoptera,Geometridae,None,None
+OTU_000040390,Opisthokonta,Metazoa,Arthropoda,Insecta,Hymenoptera,Tenthredinidae,None,None
+OTU_000041613,Opisthokonta,Metazoa,Arthropoda,Insecta,Neuroptera,Mantispidae,None,None
+OTU_000042659,Opisthokonta,Metazoa,Arthropoda,Insecta,Hymenoptera,Tenthredinidae,None,None
+OTU_000043530,Opisthokonta,Metazoa,Arthropoda,Insecta,Hemiptera,Aphididae,None,None
+OTU_000049538,Opisthokonta,Metazoa,Arthropoda,Insecta,Neuroptera,Mantispidae,None,None
+OTU_000053251,Opisthokonta,Metazoa,Arthropoda,Hexapoda,Entomobryomorpha,Entomobryidae,Orchesella,Orchesella sp. BIOUG20818-E07
+OTU_000054162,Opisthokonta,Metazoa,Arthropoda,Insecta,Hymenoptera,Tenthredinidae,None,None
+OTU_000058036,Opisthokonta,Metazoa,Arthropoda,Insecta,Hemiptera,Aphididae,Aphis,Aphis fabae
+OTU_000058327,Opisthokonta,Metazoa,Arthropoda,Insecta,Hymenoptera,Tenthredinidae,None,None
+OTU_000059432,Opisthokonta,Metazoa,Arthropoda,Insecta,Neuroptera,Mantispidae,None,None
+OTU_000060198,Opisthokonta,Metazoa,Arthropoda,Insecta,Hymenoptera,Tenthredinidae,None,None
+OTU_000060421,Opisthokonta,Metazoa,Arthropoda,Insecta,Diptera,Drosophilidae,Pseudostegana,Pseudostegana sp. 2104
+OTU_000060865,Opisthokonta,Metazoa,Arthropoda,Insecta,Coleoptera,Staphylinidae,None,None
+OTU_000071408,Opisthokonta,Metazoa,Arthropoda,Insecta,Hymenoptera,Ichneumonidae,None,None
+OTU_000072568,Opisthokonta,Metazoa,Arthropoda,Insecta,Coleoptera,Staphylinidae,None,None
+OTU_000076650,Opisthokonta,Metazoa,Arthropoda,Insecta,Hymenoptera,Tenthredinidae,None,None
+OTU_000079781,Opisthokonta,Metazoa,Arthropoda,Insecta,Diptera,Chironomidae,Limnophyes,Limnophyes sp. 14ES
+OTU_000083861,Opisthokonta,Metazoa,Arthropoda,Insecta,Hymenoptera,Tenthredinidae,None,None
+OTU_000094111,Opisthokonta,Metazoa,Arthropoda,Insecta,Coleoptera,Lampyridae,None,None
+OTU_000096509,Opisthokonta,Metazoa,Arthropoda,Insecta,Hymenoptera,Tenthredinidae,None,None
+OTU_000097547,Opisthokonta,Metazoa,Arthropoda,Insecta,Lepidoptera,Geometridae,Venusia,Venusia cambrica
+OTU_000099254,Opisthokonta,Metazoa,Arthropoda,Insecta,Neuroptera,Mantispidae,None,None
+OTU_000102477,Opisthokonta,Metazoa,Arthropoda,Insecta,Lepidoptera,Geometridae,None,None
+OTU_000105791,Opisthokonta,Metazoa,Arthropoda,Insecta,Hymenoptera,Tenthredinidae,None,None
+OTU_000106528,Opisthokonta,Metazoa,Arthropoda,Insecta,Hemiptera,Aphididae,None,None
+OTU_000112926,Correct_manually,Correct_manually,Correct_manually,Correct_manually,Eulipotyphla,Soricidae,Crocidura,Crocidura lasiura
+OTU_000113960,Opisthokonta,Metazoa,Nematoda,Chromadorea,Rhabditida,Aphelenchoididae,Bursaphelenchus,Bursaphelenchus antoniae
+OTU_000115159,Opisthokonta,Metazoa,Arthropoda,Insecta,Orthoptera,Gryllidae,Cardiodactylus,None
+OTU_000115392,Opisthokonta,Metazoa,Arthropoda,Insecta,Neuroptera,Mantispidae,None,None
+OTU_000116031,Opisthokonta,Metazoa,Arthropoda,Insecta,Hymenoptera,Tenthredinidae,None,None
+OTU_000116242,Opisthokonta,Metazoa,Arthropoda,Insecta,Orthoptera,Gryllidae,Cardiodactylus,None
+OTU_000116494,Opisthokonta,Metazoa,Arthropoda,Insecta,Neuroptera,Mantispidae,None,None
+OTU_000118512,Opisthokonta,Metazoa,Arthropoda,Insecta,Hymenoptera,Tenthredinidae,None,None
+OTU_000120374,Opisthokonta,Metazoa,Arthropoda,Insecta,Neuroptera,Mantispidae,None,None
+OTU_000121264,Opisthokonta,Metazoa,Arthropoda,Insecta,Neuroptera,Mantispidae,None,None
+OTU_000122716,Opisthokonta,Metazoa,Arthropoda,Insecta,Neuroptera,Mantispidae,Euclimacia,Euclimacia badia
+OTU_000124779,Opisthokonta,Metazoa,Arthropoda,Insecta,Coleoptera,Cerambycidae,Anastrangalia,Anastrangalia sequensi
+OTU_000124952,Opisthokonta,Metazoa,Arthropoda,Insecta,Diptera,Drosophilidae,Zygothrica,None
+OTU_000126389,Opisthokonta,Metazoa,Arthropoda,Insecta,Neuroptera,Mantispidae,None,None
+OTU_000127429,Opisthokonta,Metazoa,Arthropoda,Insecta,Hymenoptera,Tenthredinidae,None,None
+OTU_000130554,Opisthokonta,Metazoa,Nematoda,Chromadorea,Rhabditida,Heterorhabditidae,Heterorhabditis,None
+OTU_000136550,Opisthokonta,Metazoa,Arthropoda,Insecta,Neuroptera,Mantispidae,None,None
+OTU_000142885,Opisthokonta,Metazoa,Arthropoda,Insecta,Neuroptera,Mantispidae,None,None
+OTU_000145529,Opisthokonta,Metazoa,Arthropoda,Insecta,Diptera,Culicidae,None,None
+OTU_000147881,Opisthokonta,Metazoa,Arthropoda,Insecta,Hymenoptera,Tenthredinidae,None,None
+OTU_000152170,Opisthokonta,Metazoa,Arthropoda,Insecta,Hemiptera,Cicadellidae,Oncopsis,None
+OTU_000154781,Opisthokonta,Metazoa,Arthropoda,Arachnida,Opiliones,Phalangiidae,Bunochelis,Bunochelis spinifera
+OTU_000163782,Opisthokonta,Metazoa,Arthropoda,Insecta,Diptera,Drosophilidae,None,None
+OTU_000163996,Opisthokonta,Metazoa,Nematoda,Chromadorea,Rhabditida,Heterorhabditidae,Heterorhabditis,None
+OTU_000165683,Opisthokonta,Metazoa,Arthropoda,Diplopoda,Julida,Julidae,Ommatoiulus,Ommatoiulus moreletii
+OTU_000165747,Opisthokonta,Metazoa,Arthropoda,Insecta,Hymenoptera,Tenthredinidae,None,None
+OTU_000170634,Opisthokonta,Metazoa,Arthropoda,Insecta,Hymenoptera,Tenthredinidae,None,None
